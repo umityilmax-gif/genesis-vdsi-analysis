@@ -1,0 +1,5 @@
+comparison,chi2,dof,p
+Type of Partnership (Excluded vs. Included),10.92,6,0.0909
+Type of Project (Excluded vs. Included),1.369,3,0.7128
+Type of Partnership (Artifact vs. English),13.265,6,0.039
+Type of Project (Artifact vs. English),8.471,3,0.0372

@@ -1,0 +1,5 @@
+variant,n_topics,ari_vs_reference,elapsed_s,status
+UMAP n_neighbors=10,4,0.4855,48.0,ok
+UMAP n_neighbors=30,4,0.3238,53.2,ok
+HDBSCAN cluster_selection_method='leaf',4,0.8116,20.1,ok
+Embedding model: all-mpnet-base-v2,4,0.2391,140.0,ok

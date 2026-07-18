@@ -1,0 +1,4 @@
+Variable,Outlier Mean,Clustered Mean,p_raw,r_rb
+Number of Partners,5.01,4.99,0.10854351518399172,0.053
+SDG Scope (count),4.57,5.3,0.06058377673785906,0.065
+Description Length (chars),1081.17,1131.73,0.5253422461724143,0.022

@@ -1,0 +1,7 @@
+SDG,n_projects,n_validated,validated_pct,mean_vdsi,discourse_surplus,discourse_deficit,validated_partner_mean,nonvalidated_partner_mean,partner_pval_raw,partner_pval_fdr,partner_sig_fdr,partner_r_rb
+SDG 2 (Zero Hunger),1330,40,3.0,0.5971,1256,19,9.9,4.9,0.0,0.0,Yes,-0.363
+SDG 3 (Good Health),1261,59,4.7,0.5643,1154,24,14.5,5.0,0.0,0.0,Yes,-0.394
+SDG 4 (Quality Education),1744,43,2.5,0.5573,1644,29,10.3,4.2,0.0116,0.0116,Yes,-0.213
+SDG 6 (Clean Water),1786,81,4.5,0.6298,1671,15,11.5,5.0,0.0,0.0,Yes,-0.357
+SDG 13 (Climate Action),1537,45,2.9,0.6171,1455,14,10.3,5.2,0.0094,0.0113,Yes,-0.219
+SDG 17 (Partnerships),1537,60,3.9,0.5954,1440,20,12.5,5.3,0.0001,0.0002,Yes,-0.293

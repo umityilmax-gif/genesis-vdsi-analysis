@@ -1,0 +1,6 @@
+Feature,var,Validated Mean,Non-validated Mean,U Statistic,p (raw),r_rb,Effect Size,p (FDR-adj),Significant
+Number of Partners,partner_count,13.3,4.64,388403.5,0.0,-0.389,medium,0.0,Yes
+SDG Scope (count),sdg_count,3.82,5.31,220694.0,0.0,0.21,small,0.0,Yes
+Description Length (chars),desc_len,1230.85,1123.42,313732.5,0.0102,-0.122,small,0.0128,Yes
+Project Duration (days),duration_days,1290.78,1419.16,194155.5,0.0021,-0.18,small,0.0035,Yes
+Topic Coherence (probability),topic_prob,0.78,0.76,280681.0,0.9263,-0.004,negligible,0.9263,No

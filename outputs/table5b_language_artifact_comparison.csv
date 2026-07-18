@@ -1,0 +1,4 @@
+Variable,Artifact Mean,English Mean,r_rb,Effect,p_FDR,Sig.
+Number of Partners,3.71,5.05,0.15,small,0.0015,Yes
+SDG Scope (count),6.09,5.21,-0.08,negligible,0.1084,No
+Description Length (chars),1212.87,1123.66,-0.063,negligible,0.1597,No
