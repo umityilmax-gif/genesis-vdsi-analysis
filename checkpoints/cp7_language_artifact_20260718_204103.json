@@ -1,0 +1,39 @@
+{
+  "lang_df": [
+    {
+      "Variable": "Number of Partners",
+      "Artifact Mean": 3.71,
+      "English Mean": 5.05,
+      "r_rb": 0.15,
+      "Effect": "small",
+      "p_FDR": 0.0015,
+      "Sig.": "Yes"
+    },
+    {
+      "Variable": "SDG Scope (count)",
+      "Artifact Mean": 6.09,
+      "English Mean": 5.21,
+      "r_rb": -0.08,
+      "Effect": "negligible",
+      "p_FDR": 0.1084,
+      "Sig.": "No"
+    },
+    {
+      "Variable": "Description Length (chars)",
+      "Artifact Mean": 1212.87,
+      "English Mean": 1123.66,
+      "r_rb": -0.063,
+      "Effect": "negligible",
+      "p_FDR": 0.1597,
+      "Sig.": "No"
+    }
+  ],
+  "n_artifact": 174,
+  "n_english": 3633,
+  "validated_rate_artifact": 0.0,
+  "validated_rate_english": 0.042113955408753095,
+  "fisher_or": 0.0,
+  "fisher_p": 0.0011713154251177867,
+  "surplus_full": 3538,
+  "surplus_en": 3393
+}

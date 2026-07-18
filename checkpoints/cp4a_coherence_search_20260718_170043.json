@@ -1,0 +1,36 @@
+{
+  "results": [
+    {
+      "min_topic_size": 10,
+      "n_topics": 4,
+      "cv_coherence": 0.6369,
+      "elapsed_s": 29.8
+    },
+    {
+      "min_topic_size": 15,
+      "n_topics": 4,
+      "cv_coherence": 0.6181,
+      "elapsed_s": 29.5
+    },
+    {
+      "min_topic_size": 20,
+      "n_topics": 4,
+      "cv_coherence": 0.6118,
+      "elapsed_s": 26.4
+    },
+    {
+      "min_topic_size": 30,
+      "n_topics": 4,
+      "cv_coherence": 0.6225,
+      "elapsed_s": 26.3
+    },
+    {
+      "min_topic_size": 40,
+      "n_topics": 4,
+      "cv_coherence": 0.6173,
+      "elapsed_s": 26.2
+    }
+  ],
+  "best_size": 10,
+  "best_cv": 0.6369
+}

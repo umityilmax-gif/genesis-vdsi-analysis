@@ -1,0 +1,24 @@
+{
+  "n_excluded": 170,
+  "n_included": 3807,
+  "validation_rate_excluded": 0.041176470588235294,
+  "validation_rate_included": 0.04018912529550828,
+  "fisher_or": 1.0256225189462287,
+  "fisher_p": 0.8427370445670619,
+  "structural_comparison": [
+    {
+      "Variable": "Number of Partners",
+      "Excluded Mean": 3.25,
+      "Included Mean": 4.99,
+      "p_raw": 0.0003294333521007021,
+      "r_rb": 0.156
+    },
+    {
+      "Variable": "SDG Scope (count)",
+      "Excluded Mean": 6.23,
+      "Included Mean": 5.25,
+      "p_raw": 0.10451157560364693,
+      "r_rb": -0.073
+    }
+  ]
+}

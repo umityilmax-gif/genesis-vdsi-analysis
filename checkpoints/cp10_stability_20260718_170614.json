@@ -1,0 +1,42 @@
+[
+  {
+    "seed": 1,
+    "n_topics": 4,
+    "ari_vs_reference": 0.6973,
+    "cv_coherence": 0.6418,
+    "elapsed_s": 55.9,
+    "status": "ok"
+  },
+  {
+    "seed": 7,
+    "n_topics": 4,
+    "ari_vs_reference": 0.6346,
+    "cv_coherence": 0.6123,
+    "elapsed_s": 56.2,
+    "status": "ok"
+  },
+  {
+    "seed": 123,
+    "n_topics": 4,
+    "ari_vs_reference": 0.6777,
+    "cv_coherence": 0.631,
+    "elapsed_s": 57.4,
+    "status": "ok"
+  },
+  {
+    "seed": 2024,
+    "n_topics": 4,
+    "ari_vs_reference": 0.6579,
+    "cv_coherence": 0.6206,
+    "elapsed_s": 55.5,
+    "status": "ok"
+  },
+  {
+    "seed": 999,
+    "n_topics": 4,
+    "ari_vs_reference": 0.5108,
+    "cv_coherence": 0.607,
+    "elapsed_s": 55.5,
+    "status": "ok"
+  }
+]

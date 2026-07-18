@@ -1,0 +1,72 @@
+{
+  "or_table": [
+    {
+      "Variable": "const",
+      "OR": 0.0324,
+      "CI_lo": 0.0141,
+      "CI_hi": 0.0741,
+      "p": 0.0
+    },
+    {
+      "Variable": "partner_count_z",
+      "OR": 1.3814,
+      "CI_lo": 1.2425,
+      "CI_hi": 1.5358,
+      "p": 0.0
+    },
+    {
+      "Variable": "sdg_count_z",
+      "OR": 0.7029,
+      "CI_lo": 0.5675,
+      "CI_hi": 0.8706,
+      "p": 0.0012
+    },
+    {
+      "Variable": "desc_len_z",
+      "OR": 1.1197,
+      "CI_lo": 0.9468,
+      "CI_hi": 1.3242,
+      "p": 0.1864
+    },
+    {
+      "Variable": "duration_days_imputed_z",
+      "OR": 0.9767,
+      "CI_lo": 0.8073,
+      "CI_hi": 1.1817,
+      "p": 0.8086
+    },
+    {
+      "Variable": "has_end_date",
+      "OR": 0.342,
+      "CI_lo": 0.2341,
+      "CI_hi": 0.4996,
+      "p": 0.0
+    },
+    {
+      "Variable": "is_nonenglish_artifact",
+      "OR": 0.3941,
+      "CI_lo": 0.0507,
+      "CI_hi": 3.0602,
+      "p": 0.3732
+    },
+    {
+      "Variable": "topic_0",
+      "OR": 4.0674,
+      "CI_lo": 1.8536,
+      "CI_hi": 8.9253,
+      "p": 0.0005
+    },
+    {
+      "Variable": "topic_1",
+      "OR": 0.3665,
+      "CI_lo": 0.105,
+      "CI_hi": 1.2796,
+      "p": 0.1156
+    }
+  ],
+  "mcfadden_r2": null,
+  "used_fallback": true,
+  "dropped_zero_var": [],
+  "ap_standard": 0.22102964363949293,
+  "ap_balanced": 0.2161864576875236
+}

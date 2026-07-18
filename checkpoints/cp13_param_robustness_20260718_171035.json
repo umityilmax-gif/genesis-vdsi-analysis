@@ -1,0 +1,30 @@
+[
+  {
+    "variant": "UMAP n_neighbors=10",
+    "n_topics": 4,
+    "ari_vs_reference": 0.4855,
+    "elapsed_s": 48.0,
+    "status": "ok"
+  },
+  {
+    "variant": "UMAP n_neighbors=30",
+    "n_topics": 4,
+    "ari_vs_reference": 0.3238,
+    "elapsed_s": 53.2,
+    "status": "ok"
+  },
+  {
+    "variant": "HDBSCAN cluster_selection_method='leaf'",
+    "n_topics": 4,
+    "ari_vs_reference": 0.8116,
+    "elapsed_s": 20.1,
+    "status": "ok"
+  },
+  {
+    "variant": "Embedding model: all-mpnet-base-v2",
+    "n_topics": 4,
+    "ari_vs_reference": 0.2391,
+    "elapsed_s": 140.0,
+    "status": "ok"
+  }
+]
